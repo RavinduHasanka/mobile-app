@@ -1,0 +1,1 @@
+ C:\\Users\\ACER\\Documents\\GitHub\\iShop.lk\\.dart_tool\\flutter_build\\8cf88f31bf0de9036cb606c7c62a340b\\native_assets.yaml: 
